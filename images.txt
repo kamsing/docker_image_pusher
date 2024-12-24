@@ -7,3 +7,4 @@
 alpine
 python:alpine3.19
 rpy2/base-ubuntu
+lowinli98/devpi:v0.1
