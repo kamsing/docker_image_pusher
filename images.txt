@@ -14,3 +14,4 @@ ghcr.io/apache/dolphinscheduler/dolphinscheduler-alert-server:latest
 ghcr.io/apache/dolphinscheduler/dolphinscheduler-master:latest
 ghcr.io/apache/dolphinscheduler/dolphinscheduler-worker:latest
 ghcr.io/apache/dolphinscheduler/dolphinscheduler-tools:latest
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-api:latest
