@@ -8,3 +8,8 @@ alpine
 python:alpine3.19
 rpy2/base-ubuntu
 lowinli98/devpi:v0.1
+bitnami/postgresql:15.2.0
+bitnami/zookeeper:3.7.1
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-alert-server:latest
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-master:latest
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-worker:latest
