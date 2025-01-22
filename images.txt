@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-python:alpine3.10.16
+python:alpine3.11
 alpine
 python:alpine3.19
 rpy2/base-ubuntu
