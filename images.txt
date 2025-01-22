@@ -4,18 +4,14 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+python:alpine3.10.16
 alpine
 python:alpine3.19
 rpy2/base-ubuntu
 lowinli98/devpi:v0.1
 bitnami/postgresql:15.2.0
 bitnami/zookeeper:3.7.1
-ghcr.io/apache/dolphinscheduler/dolphinscheduler-alert-server:latest
-ghcr.io/apache/dolphinscheduler/dolphinscheduler-master:latest
-ghcr.io/apache/dolphinscheduler/dolphinscheduler-worker:latest
-ghcr.io/apache/dolphinscheduler/dolphinscheduler-tools:latest
-ghcr.io/apache/dolphinscheduler/dolphinscheduler-api:latest
 apache/airflow:2.10.4
 postgres:13
 redis:7.2-bookworm
-python:alpine3.10
+
